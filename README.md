@@ -1,5 +1,5 @@
-# Product List with Cart
+# News Homepage
 
 **Name**: Manmeet Kaur 
 **Student Number**: 41147051
-**Challenge Attempted**: "Product list with cart" 
+**Challenge Attempted**: "News Homepage" 
